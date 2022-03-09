@@ -7,7 +7,7 @@
 - Python(high);
 - Django(low);
 - Javascript(low);
-- Node.js(low);
+- Node.js(med);
 - Sql(high);
 - Mysql(med);
 - Html(med);
