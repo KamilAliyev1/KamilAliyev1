@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...C++ and Java
 - Abilities (level):
 - Java(low);
-- C++(low);
+- C++(medium);
 - Python(high);
 - Django(low);
 - Javascript(low);
