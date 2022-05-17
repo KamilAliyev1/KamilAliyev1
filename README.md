@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KamilAliyev1
 - 👀 I’m interested in ...Softwere engineering and Back-end
-- 🌱 I’m currently learning ...C++ and Java
+- 🌱 I’m currently learning Java
 - Abilities (level):
 - Java(low);
 - C++(medium);
