@@ -4,14 +4,27 @@
 - Abilities (level):
 - Java(high);
 - C++(medium);
+- OOP;
+- SOLID;
+- Design Patterns(med);
+- JPA(Hibernate ORM);
+- JDBC;
+- Servlet(TomCat & JSP);
+- Tymeleaf;
+- Socket programing;
+- Algorithms & Datastructures;
+- Spring(low);
 - Python(high);
 - Django(low);
-- Javascript(low);
+- Javascript(med);
 - Node.js(med);
 - Sql(high);
 - Mysql(med);
 - Html(med);
 - Css(med);
+- 
+- 
+- 
 - 
 
 <!---
