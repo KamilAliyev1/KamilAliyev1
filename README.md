@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Softwere engineering and Back-end
 - 🌱 I’m currently learning Java & Servlet & Spring & Tymeleaf
 - Abilities (level):
-- Java(low);
+- Java(high);
 - C++(medium);
 - Python(high);
 - Django(low);
