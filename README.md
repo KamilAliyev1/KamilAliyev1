@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KamilAliyev1
 - 👀 I’m interested in ...Softwere engineering and Back-end
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java & Servlet & Spring & Tymeleaf
 - Abilities (level):
 - Java(low);
 - C++(medium);
