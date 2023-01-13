@@ -1,27 +1,30 @@
 - 👋 Hi, I’m @KamilAliyev1
 - 👀 I’m interested in ...Software engineering and Back-end
 - 🌱 I’m currently learning Java & Servlet & Spring & Tymeleaf
-- Abilities (level):
-- Java(high);
-- C++(medium);
+- Abilities:
+- Java;
+- Spring
+- Spring Security
+- Rest api;
+- Microservices;
+- C++;
 - OOP;
 - SOLID;
-- Design Patterns(med);
+- Design Patterns;
 - JPA(Hibernate ORM);
 - JDBC;
 - Servlet(TomCat & JSP);
 - Tymeleaf;
 - Socket programing;
 - Algorithms & Datastructures;
-- Spring(low);
-- Python(high);
-- Django(low);
-- Javascript(med);
-- Node.js(med);
-- Sql(high);
-- Mysql(med);
-- Html(med);
-- Css(med);
+- Spring;
+- Python;
+- Javascript;
+- Sql;
+- Mysql;
+- PostgreSQL;
+- Html;
+- Css;
 - 
 - 
 - 
