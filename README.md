@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KamilAliyev1
 - 👀 I’m interested in ...Software engineering and Back-end
-- 🌱 I’m currently learning Java & Servlet & Spring & Tymeleaf
+- 🌱 I’m currently learning Spring
 - Abilities:
 - Java;
 - Spring
